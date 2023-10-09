@@ -1,0 +1,7 @@
+
+vscode:
+  extensions:
+    - redhat.java
+    - CoenraadS.bracket-pair-colorizer
+    - vscjava.vscode-java-debug
+    - eamodio.gitlens
